@@ -1,9 +1,9 @@
 # stable-diffusion-Prompt-format-quick-conversion
 There are many prompt formats for stable diffusion, including () and {}, etc.<br> I personally like to use (1girl: 2.0), which solves the problem of messy text<br>
 
-stable diffusion的Prompt format 非常多,有()以及{}等,<br>我個人喜歡使用(1girl: 2.0),他解決了文字雜亂的問題<br>
+stable diffusion的Prompt format 非常多,有()以及{}等,<br>我個人喜歡使用(1girl: 2.0),他解決了文字雜亂的問題。<br>
 
-<br>個人的には(1girl: 2.0)を使うのが好きで、文字がごちゃごちゃする問題を解決してくれます<br>。
+<br>個人的には(1girl: 2.0)を使うのが好きで、<br>文字がごちゃごちゃする問題を解決してくれます<br>。
 # Use 使用
 He is just a simple Python program.<br>
 All you need to do is install python and you can run.<br>
