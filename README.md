@@ -30,4 +30,4 @@ Download my .py file and use cmd to enter it under the path:python spell_text.py
 我想做一個自動排序標籤的排序方法，<br>
 但是Python的操作畫面不太理想，以後會用C#開發。<br>
 # Example diagram
-
+![image](https://github.com/Cloveriow/stable-diffusion-Prompt-format-quick-conversion/blob/main/Example%20diagram.png)
