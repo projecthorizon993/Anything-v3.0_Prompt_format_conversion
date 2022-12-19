@@ -11,10 +11,10 @@ def main():
     global Prompt
     global Weights
     power = 0
-    print("Enter the prompt and weight Format:prompt,weight example:1girl,2.0\nEnter -i or info get more information\nYou can enter continuously or with a single input\nEnter 0 to leave the loop and display the result.\n")
+    print("Enter the prompt and weight Format:prompt,weight example:\n1girl,2.0\n1girl:2.0\nEnter -i or info get more information\nYou can enter continuously or with a single input\nEnter 0 to leave the loop and display the result.\n")
     while (power ==0):
         request = input()
-        if (request=="1"):
+        if (request=="0"):
             if (x!=0):
                 for i in range(len(Prompt)):
                     print("("+Prompt[i]+":"+Weights[i]+"),",end = '')
@@ -32,7 +32,7 @@ def process(request):
         global Weights
         request= request.strip(',');
         request = re.sub('[{}()\n]','',request)
-        Promptlist=re.split(r'[,]',request)
+        Promptlist=re.split(r'[,:]',request)
         if (len(Promptlist)%2!=0):
             print("Formatting error,It is detected that there are only singular numbers, and the correct format should be double numbers.")
             return
