@@ -1,9 +1,10 @@
 # Anything-v3.0-stable-diffusion-Prompt-format-quick-conversion
-There are many prompt formats for stable diffusion, including () and {}, etc.<br> I personally like to use (1girl: 2.0), which solves the problem of messy text<br>
 
 !!!!This notation cannot be used in NovelAI, please use it in Anything-v3.0!!!!<br>
 !!!!這種表示法無法使用在NovelAI 請使用在Anything-v3.0!!!!<br>
 !!!!この表記は NovelAI では使用できません。Anything-v3.0 で使用してください。!!!!<br>
+
+There are many prompt formats for stable diffusion, including () and {}, etc.<br> I personally like to use (1girl: 2.0), which solves the problem of messy text<br>
 
 stable diffusion的Prompt format 非常多,有()以及{}等,<br>我個人喜歡使用(1girl: 2.0),他解決了文字雜亂的問題。<br>
 
