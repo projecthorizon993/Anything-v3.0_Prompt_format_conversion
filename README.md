@@ -7,7 +7,7 @@
 !!!!這種表示法無法使用在NovelAI 請使用在Anything-v3.0!!!!<br>
 !!!!この表記は NovelAI では使用できません。Anything-v3.0 で使用してください。!!!!<br>
 
-In novelAI, you must enter {} to increase its weight, but when there are many multiples, you may have such a situation
+In novelAI, you must enter {} to increase its weight, but when there are many multiples, you may have such a situation<br>
 1.1 multiples: {{}}<br>
 1.2 multiples: {{{{}}}}<br>
 1.3 multiples: {{{{{{{}}}}}}}<br>
@@ -21,7 +21,7 @@ In novelAI, you must enter {} to increase its weight, but when there are many mu
 1.4倍數:{{{{{{{{}}}}}}}}<br>
 1.5倍數:{{{{{{{{{{}}}}}}}}}}<br>
 
-NovelAIでは{}を入力して重みを増やさなければならないのですが、倍数が多いとそのような状況になることがあります
+NovelAIでは{}を入力して重みを増やさなければならないのですが、倍数が多いとそのような状況になることがあります<br>
 1.1倍数: {{}}<br>
 1.2倍数: {{{{}}}}<br>
 1.3倍数: {{{{{{{}}}}}}}<br>
