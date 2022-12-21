@@ -2,7 +2,7 @@
 
 Online compilation is now provided, using google colab<br>
 現在提供線上編譯,使用google colab<br>
-google colab を使用したオンライン コンパイルが提供されました<br>
+google colab を使用でオンライン コンパイルが提供されました<br>
 <https://colab.research.google.com/drive/14XKySmk-Tb-x7X_6ApS_S0SbpVjC1aef?usp=share_link/>
 
 
