@@ -1,6 +1,9 @@
 # Anything-v3.0-stable-diffusion-Prompt-format-quick-conversion
 
-
+Online compilation is now provided, using google colab
+現在提供線上編譯,使用google colab
+google colab を使用したオンライン コンパイルが提供されました
+<https://colab.research.google.com/drive/14XKySmk-Tb-x7X_6ApS_S0SbpVjC1aef?usp=share_link/>
 
 
 !!!!This notation cannot be used in NovelAI, please use it in Anything-v3.0!!!!<br>
