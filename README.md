@@ -1,4 +1,4 @@
-# Anything-v3.0-stable-diffusion-Prompt-format-quick-conversion
+# Anything-v3.0_Prompt_format_conversion
 
 Online compilation is now provided, using google colab<br>
 現在提供線上編譯,使用google colab<br>
